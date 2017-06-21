@@ -1,0 +1,12 @@
+print("Este programa faz uma matriz com zeros.")
+print("***************************************")
+print()
+linha=int(input("Insira o número de linhas da matriz: "))
+colunas=int(input("Insira o número de colunas da matriz: "))
+print()
+m = [0]*linha
+for i in range(linha):
+    m[i] = [0]*colunas
+print(m)
+print()
+print("*****FIM*****")
