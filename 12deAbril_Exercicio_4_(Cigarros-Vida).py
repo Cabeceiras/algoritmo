@@ -1,3 +1,10 @@
+'''
+4)sistema deve perguntar quantos cigarros a pessoa fuma por dia 
+e por quantos anos ela já fuma. Sabendo que cada cigarro se perde
+10min de vida sistema deve calcular quantos dias de vida o fumante 
+perderá
+'''
+
 cigarros=int(input("Informe a quantidade de cigarros fumados por dia: "))
 anos=int(input("Informe o tempo em anos desde que foi iniciada a prática de fumar: "))
 
