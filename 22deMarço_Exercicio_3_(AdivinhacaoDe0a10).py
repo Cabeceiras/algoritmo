@@ -4,6 +4,11 @@ entre 0 e 10 e outra pessoa irá tentar acertar o numero.
 o sistema deve informar se o numero da tentativa é maior 
 ou menor que o numero indicado pelo usuário inicialmente.
 o programa so termina quando adivinhar
+-mudança 1:
+o sistema deve gerar o numero aleatório
+-mudança 2:
+ exibir no final quantas tentativas foram necessárias 
+ até acertar
 '''
 
 from random import *
