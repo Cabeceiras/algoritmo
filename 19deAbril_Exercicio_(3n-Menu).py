@@ -1,3 +1,13 @@
+'''
+1)Faça um algoritmo que receba 3 números inteiros 
+e o usuário decida quais das opções o sistema deve 
+retornar: 
+-a soma dos números 
+-o maior
+-o menor 
+-a média 
+'''
+
 def soma(a,b,c):
     soma=a+b+c
     return(soma)
