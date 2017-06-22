@@ -1,3 +1,11 @@
+'''
+3) faça um algoritmo uma pessoa informa um número aleatório 
+entre 0 e 10 e outra pessoa irá tentar acertar o numero.
+o sistema deve informar se o numero da tentativa é maior 
+ou menor que o numero indicado pelo usuário inicialmente.
+o programa so termina quando adivinhar
+'''
+
 from random import *
 numero=randint(0,10)
 
