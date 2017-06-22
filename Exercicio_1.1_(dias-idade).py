@@ -1,3 +1,7 @@
+'''
+1.1) FAÇA UM PROGRAMA QUE O USUÁRIO INFORME QUANTOS DIAS DE VIDA ELE TEM 
+e o sistema mostre-a expressa em anos, meses e dias de vida.
+'''
 idade_dias=input("Informe sua idade em dias: ")
 
 idade_meses=int(int(idade_dias)/30)
