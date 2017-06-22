@@ -1,3 +1,10 @@
+'''
+7) Faça um programa que o usuário informe a quantidade 
+de alunos de uma turma, o sistema deve ler o peso e altura 
+de cada aluno, ao final informar a média dos pesos, alturas 
+e imc.
+'''
+
 alunos=int(input("Informe a quantidade de alunos: "))
 
 x=0
