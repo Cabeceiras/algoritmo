@@ -1,3 +1,8 @@
+'''
+1) Faça um algoritmo para ler a idade de 5 pessoas 
+e informar qual foi a maior idade informada.
+'''
+
 maior=0
 x=0
 for x in range(5):
