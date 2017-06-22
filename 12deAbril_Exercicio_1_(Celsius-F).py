@@ -1,3 +1,6 @@
+'''
+1)Faça um algoritmo para converter valores de celsius para fahrenheit
+'''
 resposta="sim"
 
 while resposta=="sim":
