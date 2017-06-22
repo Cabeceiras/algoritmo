@@ -1,3 +1,10 @@
+'''
+(1) - Indique como um troco deve ser dado utilizando-se um número mínimo de notas.
+Seu algoritmo deve ler o valor da conta ,a ser paga e o valor do pagamento efetuado
+desprezandoos centavos. Suponha que as notas para troco sejam as de 50, 20, 10, 5,
+2 e 1 reais, e quenenhuma delas esteja em falta no caixa
+'''
+
 print()
 preco=int(input("Informe em número inteiro o preço do produto: "))
 print()
