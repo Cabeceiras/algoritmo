@@ -1,3 +1,7 @@
+'''
+8) o programa anterior, deve informar ao final o aluno com maior e menor imc.
+'''
+
 alunos=int(input("Informe a quantidade de alunos: "))
 
 x=0
