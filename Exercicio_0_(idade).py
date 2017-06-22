@@ -1,3 +1,6 @@
+'''
+0. Faça um algoritmo que leia a data de nascimento(dia, mês e ano), e informe a idade correta
+'''
 data=input("Informe a data de nascimento no formato [dd/mm/aaaa]:")
 atual=input("Informe a data atual no formato [dd/mm/aaaa]:")
 
