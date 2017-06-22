@@ -1,3 +1,7 @@
+'''
+1) Faça um algoritmo que leia a data de nascimento de uma pessoa  
+e mostre-a expressa em anos, meses e dias.
+'''
 data=input("Informe a data de nascimento no formato [dd/mm/aaaa]: ")
 atual=input("Informe a data atual no formato [dd/mm/aaaa]: ")
 
