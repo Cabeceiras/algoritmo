@@ -1,3 +1,7 @@
+'''
+4) Altere o exercício e armazene num vetor as idades informadas.
+'''
+
 x=int(input("informe quantas idades vai inserir: "))
 cont=0
 maior=0
