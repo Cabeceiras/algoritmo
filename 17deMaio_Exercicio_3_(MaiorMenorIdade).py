@@ -1,3 +1,7 @@
+'''
+3) Altere o algoritmo anterior e informe a maior e menor idade.
+'''
+
 x=int(input("informe quantas idades vai inserir: "))
 cont=0
 maior=0
