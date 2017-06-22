@@ -1,3 +1,10 @@
+'''
+2) Escreva um algoritmo para ler as dimensões de um 
+retângulo (base e altura), calcular e escrever a área 
+do retângulo, e caso seja um quadrado, exibir a frase: 
+área de um quadrado
+'''
+
 base_ret=input("Informe base do retângulo em centimetros: ")
 altura_ret=input("Informe altura do retângulo em centimetros: ")
 
