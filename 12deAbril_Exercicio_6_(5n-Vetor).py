@@ -1,3 +1,7 @@
+'''
+6)Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+'''
+
 vetor=[]
 
 numero1=eval(input("Insira o primeiro número: "))
