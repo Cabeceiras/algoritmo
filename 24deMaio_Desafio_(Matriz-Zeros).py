@@ -1,3 +1,9 @@
+'''
+Faça um algoritmo que o usuário informe a quantidade de linhas 
+e colunas que a matriz deve ter.O sistema deve criar a matriz 
+atribuindo zero para cada campo.
+'''
+
 print("Este programa faz uma matriz com zeros.")
 print("***************************************")
 print()
