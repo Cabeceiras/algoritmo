@@ -1,3 +1,7 @@
+'''
+2) Faça um algoritmo que o usuário informe quantas idades
+serão informadas e exiba a maior.
+'''
 x=int(input("informe quantas idades vai inserir: "))
 cont=0
 m=0
