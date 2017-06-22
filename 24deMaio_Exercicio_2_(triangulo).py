@@ -1,3 +1,10 @@
+'''
+Exercício 2:crie um algoritmo que solicite 3 valores que representarão
+os lados de um triângulo. Considere que não importa a ordem que serão 
+fornecidos os valores, podendo ser fornecido primeiro a hipotenusa e 
+depois os catetos, ou primeiro os catetos e depois a hipotenusa, etc.
+'''
+
 import math
 
 print()
