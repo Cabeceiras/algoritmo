@@ -1,3 +1,9 @@
+'''
+5) o sistema deve perguntar a medida dos 3 lados de um triangulo,
+o sistema deve informar o tipo de triangulo: equilatero, isosceles
+ou escaleno.
+'''
+
 lado1=float(input("Informe medida do primeiro lado do triângulo: "))
 lado2=float(input("Informe medida do segundo lado do triângulo: "))
 lado3=float(input("Informe medida do terceiro lado do triângulo: "))
