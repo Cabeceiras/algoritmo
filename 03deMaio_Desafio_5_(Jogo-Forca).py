@@ -1,3 +1,11 @@
+'''
+5) - Faça um jogo de forca...o sistema deve escolher aleatoriamente 
+uma lista de nomes, como por exemplo, nome dos meses..O usuário 
+só poderá errar 6 vezes, E o programa encerraa cada acerto deve 
+aparecer a letra na posição correspondente do nome.quando for digitada 
+todas as letras do nome o sistema deve informar a mensagem: VENCEDOR!
+'''
+
 from random import *
 numero=randint(0,11)
 
